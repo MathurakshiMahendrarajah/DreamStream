@@ -1,0 +1,5 @@
+{
+  "name": "DreamStream: Visual Adventure",
+  "description": "An interactive visual storytelling engine that converts your text prompts into a playable, illustrated adventure game using Generative AI.",
+  "requestFramePermissions": []
+}
